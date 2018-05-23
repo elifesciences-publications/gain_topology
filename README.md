@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Shine et al., "The modulation of neural gain facilitates a transition between functional segregation and integration in the brain". eLife, 2018. http://dx.doi.org/10.7554/eLife.31130
+
+
 # gain_topology
 Code for biophysical modeling study
 
